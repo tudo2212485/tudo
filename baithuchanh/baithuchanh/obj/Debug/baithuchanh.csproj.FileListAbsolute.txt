@@ -1,0 +1,10 @@
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\bin\Debug\baithuchanh.exe.config
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\bin\Debug\baithuchanh.exe
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\bin\Debug\baithuchanh.pdb
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.csproj.AssemblyReference.cache
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.Main.resources
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.Properties.Resources.resources
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.csproj.GenerateResource.cache
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.csproj.CoreCompileInputs.cache
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.exe
+C:\Users\PC602\source\repos\baithuchanh\baithuchanh\obj\Debug\baithuchanh.pdb
